@@ -17,9 +17,11 @@
 
 
 <h3 align="left">GitHub Analytics :</h3>
-<img align="left" height="180px" width="480px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simonhamel1&layout=compact&theme=" alt=WebdevInnovate />
+<div style="display: flex; align-items: flex-start;">
+  <img align="left" height="180px" width="480px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simonhamel1&layout=compact&theme=" alt="WebdevInnovate" />
+  <img align="left" height="180px" src="https://github-readme-stats.vercel.app/api?username=Simonhamel1&show_icons=true&locale=en&theme=" alt="WebdevInnovate" />
+</div>
 
-<p>&nbsp;<img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=Simonhamel1&show_icons=true&locale=en&theme=" alt="WebdevInnovate" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
