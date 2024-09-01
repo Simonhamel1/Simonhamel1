@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Simon HAMELIN and from Paris </h2>
+<h2 align="left">Hi 👋! My name is Simon HAMELIN and i study near paris </h2>
 
 ###
 
