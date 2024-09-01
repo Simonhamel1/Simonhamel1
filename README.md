@@ -15,9 +15,7 @@
 
 
 <h3 align="left">GitHub Analytics :</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simonhamel1&show_icons=true&locale=en&layout=compact" alt="simonhamel1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simonhamel1&show_icons=true&locale=en" alt="simonhamel1" /></p>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Simonhamel1&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true" alt="deltahmed" height=150px/><img  src="https://github-readme-stats.vercel.app/api?username=Simonhamel1&show_icons=true&locale=en&theme=nightowl&hide_border=true" alt="deltahmed" height=150px />
 
 
 
