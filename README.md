@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Simon Hamelin</h1>
-<h3 align="center">student in maths applied to finance</h3>
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<h1 align="center"> I'm Simon Hamelin</h1>
 
+
+- 👨‍💻 I'm student in maths applied to finance in **CY-Tech Cergy**
 
 - 🔭 I’m currently working on **C project**
-
+  
 - 👨‍💻 All of my projects are available on **Github**
 
 - 🌱 I’m currently learning **Python and html5**                                                                                                                                                                                                                                                                                                                                                                                             
@@ -15,8 +17,9 @@
 
 
 <h3 align="left">GitHub Analytics :</h3>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Simonhamel1&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true" alt="deltahmed" height=150px/><img  src="https://github-readme-stats.vercel.app/api?username=Simonhamel1&show_icons=true&locale=en&theme=nightowl&hide_border=true" alt="deltahmed" height=150px />
+<img align="left" height="180em" width="430px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simonhamel1&layout=compact&theme=" alt=WebdevInnovate />
 
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Simonhamel1&show_icons=true&locale=en&theme=" alt="WebdevInnovate" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -26,3 +29,4 @@
 <a href="https://instagram.com/simoonham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simoonham" height="30" width="40" /></a>
 </p>
 
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
