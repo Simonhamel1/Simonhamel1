@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simon Hamelin</h1>
 <h3 align="center">student in maths applied to finance</h3>
 
+
 - 🔭 I’m currently working on **C project**
 
 - 👨‍💻 All of my projects are available on **Github**
