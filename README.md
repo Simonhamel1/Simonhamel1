@@ -17,17 +17,16 @@
 
 
 <h3 align="left">GitHub Analytics :</h3>
-<p align="center">
-  <img align="left" height="180px" width="480px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simonhamel1&layout=compact&theme=" alt="WebdevInnovate" />
-  <img align="left" height="180px" src="https://github-readme-stats.vercel.app/api?username=Simonhamel1&show_icons=true&locale=en&theme=" alt="WebdevInnovate" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simonhamel1&layout=compact&theme=" alt="WebdevInnovate" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Simonhamel1&show_icons=true&locale=en&theme=" alt="WebdevInnovate" />
 
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=deltahmed&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true" alt="deltahmed" height=150px/>
-  <img  src="https://github-readme-stats.vercel.app/api?username=deltahmed&show_icons=true&locale=en&theme=nightowl&hide_border=true" alt="deltahmed" height=150px />
 
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+</a>
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
