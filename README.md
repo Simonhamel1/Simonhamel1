@@ -29,10 +29,10 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://www.mql5.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.mql5.com/en/docs" target="_blank" rel="noreferrer">
     <img src="https://files.oaiusercontent.com/file-6J7RRhUydYYbXE2d2tVTbsdL?se=2123-10-16T10:31:01Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dmql5fg.png&sig=bNiSMo2bOzG6GVeV6qj5GSTHYImZTS6cuXZaaoKXS6E%3D" alt="mql5" width="40" height="40"/>
   </a>
-  <a href="https://www.mql4.com/" target="_blank" rel="noreferrer">
+  <a href="https://docs.mql4.com/" target="_blank" rel="noreferrer">
     <img src="https://soft4fx.com/assets/images/mt4-logo.png" alt="mql4" width="40" height="40"/>
   </a>
 </p>
