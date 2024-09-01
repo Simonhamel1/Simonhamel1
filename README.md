@@ -17,9 +17,13 @@
 
 
 <h3 align="left">GitHub Analytics :</h3>
-<img align="left" height="180em" width="430px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simonhamel1&layout=compact&theme=" alt=WebdevInnovate />
+<img align="left" height="180em" width="430px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebdevInnovate&layout=compact&theme=" alt=WebdevInnovate />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Simonhamel1&show_icons=true&locale=en&theme=" alt="WebdevInnovate" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=WebdevInnovate&show_icons=true&locale=en&theme=" alt="WebdevInnovate" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
+<div align="center">
+<a href="https://github.com/WebdevInnovate">
 
 
 <h3 align="left">Connect with me:</h3>
