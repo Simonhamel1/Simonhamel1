@@ -1,18 +1,22 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center"> I'm Simon Hamelin</h1>
+
+<h1 align="center">I'm Simon Hamelin</h1>
 
 
-- 👨‍💻 I'm student in maths applied to finance in **CY-Tech Cergy**
+- 👨‍💻 I'm a student in maths applied to finance at **CY-Tech Cergy**.
 
-- 🔭 I’m currently working on **C project**
+- 🔭 I’m currently working on **C projects**.
   
-- 👨‍💻 All of my projects are available on **Github**
+- 🌱 I’m currently learning **Python and HTML5**.
 
-- 🌱 I’m currently learning **Python and html5**                                                                                                                                                                                                                                                                                                                                                                                             
-                                                                                                                                                                                                              
+- 💻 All of my projects are available on [**GitHub**](https://github.com/Simonhamel1).
 
-  
-<h3 align="left">Languages and Tools :</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
+
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -37,22 +41,21 @@
   </a>
 </p>
 
-
-
-<h3 align="left">GitHub Analytics :</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simonhamel1&layout=compact&theme=" alt="WebdevInnovate" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Simonhamel1&show_icons=true&locale=en&theme=" alt="WebdevInnovate" />
-
-
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 
+<h3 align="left">📊 GitHub Analytics :</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simonhamel1&layout=compact&theme=radical" alt="Simonhamel1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Simonhamel1&show_icons=true&locale=en&theme=radical" alt="Simonhamel1" />
+</p>
 
-<h3 align="left">Connect with me:</h3>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/simon-hamelin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simon-hamelin" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100093206056870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="simon hamelin" height="30" width="40" /></a>
